@@ -1,3 +1,10 @@
 I’m interested in joining Sectigo because of its global leadership in digital identity and web security solutions. As a Java backend developer passionate about building secure and scalable systems, I’m particularly drawn to Sectigo’s focus on PKI, SSL, and enterprise-level certificate management — areas that align with my interest in secure API development and data protection.
 
 Sectigo’s commitment to innovation, its use of cutting-edge technologies, and its mission to enable trust in the digital ecosystem make it a compelling env
+
+
+
+
+I’m interested in joining Sectigo because of its global leadership in digital identity and web security solutions. As a Java backend developer passionate about building secure and scalable systems, I’m particularly drawn to Sectigo’s focus on PKI, SSL, and enterprise-level certificate management — areas that align with my interest in secure API development and data protection.
+
+Sectigo’s commitment to innovation, its use of cutting-edge technologies, and its mission to enable trust in the digital ecosystem make it a compelling environment for learning and growth. I value working in a company that prioritizes both technical excellence and customer security, and I believe Sectigo offers the right platform for me to contribute meaningfully while evolving professionally.
